@@ -1,5 +1,5 @@
 # Sprig-PNG-To-Bitmap-Converter
- Converts 16x16 sprites in a png format to the bitmap string that Sprig uses to store sprite data. And don't worry, if a color on the sprite doesn't have a place in Sprig's color palette, the program will replace it with the closest color on the palette.
+ Converts 16x16 sprites in a png format to the bitmap string that <a href = "https://sprig.hackclub.com/">Sprig</a> uses to store sprite data. And don't worry, if a color on the sprite doesn't have a place in Sprig's color palette, the program will replace it with the closest color on the palette.
 
  <h1>INSTRUCTIONS</h1>
  <ul>
